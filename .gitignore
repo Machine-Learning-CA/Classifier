@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#CA Outline
+ML_CA2_Classifier_2018_19.pdf
